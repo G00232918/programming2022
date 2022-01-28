@@ -1,6 +1,6 @@
 # read in a number and one
 # Author: James Connolly
-
+git 
 # we must convert the string that input returns to an Int
 number = int(input ('please enter a number:'))
 newNumber = number +1
